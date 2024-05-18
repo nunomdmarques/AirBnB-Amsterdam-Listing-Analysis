@@ -13,3 +13,5 @@ Source: insideairbnb.com, a mission-driven activist project with the objective t
 * 01 Project Management: Project brief
 * 04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
 * 03 Scripts: Jupyter notebooks used for analysis and visualizations
+* Prepared Data contains the clean and wrangled data
+* listings_details and calendar are the original datasets used.
