@@ -15,8 +15,9 @@ The data comes from Kaggle project Airbnb Amsterdam. This project used data from
 The data behind the Inside Airbnb site is sourced from publicly available information from the Airbnb site. The data has been analyzed, cleansed and aggregated to facilitate public discussion. 
 #### Data Contents:
 Data Dictionary: https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596 
+
 The dataset contains information on all the AirBnB listings in Amsterdam on December 6th, 2018 (20k).
-Calendar.csv contains the status of occupancy for all listings for the following year after December 6th, 2018.
+calendar.csv contains the status of occupancy for all listings for the following year after December 6th, 2018.
 listings_details.csv contains information on listings such as host id and name, listing id and description, neighbourhood, price, geographical location, etc…
 
 
